@@ -1,4 +1,4 @@
-# Wikipedia iOS
+    # Wikipedia iOS
 The official Wikipedia iOS app.
 
 [![Wikipedia](https://circleci.com/gh/wikimedia/wikipedia-ios.svg?style=shield)](https://github.com/wikimedia/wikipedia-ios)
